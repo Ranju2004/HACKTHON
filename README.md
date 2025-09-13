@@ -16,7 +16,7 @@
   <li>Clone this repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/Linuxndroid/BOT-CATCHER.git
+<pre><code>git clone https://github.com/Ranju2004/HACKTHON.git
 cd BOT-CATCHER
 </code></pre>
 
