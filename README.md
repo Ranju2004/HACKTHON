@@ -111,18 +111,3 @@ Email: kali@gmail.com
 
 <p>✍️ This repository is for <b>cybersecurity awareness and education only</b>.<br>
 Do not use it for malicious purposes.</p>
-
-# Watch Video For More Information.
-[![YouTube Video](https://img.youtube.com/vi/lgEBDCMCqNo/0.jpg)](https://youtu.be/lgEBDCMCqNo?feature=shared)
-
-<p align="center">Made with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">Linuxndroid</a></p>
-
-# Available Our [Hacking Course](https://linuxndroid.in)
-
-# Follow Me on :
-
-[![Instagram](https://img.shields.io/badge/IG-linuxndroid-yellowgreen?style=for-the-badge&logo=instagram)](https://www.instagram.com/linuxndroid)
-
-[![Youtube](https://img.shields.io/badge/Youtube-linuxndroid-redgreen?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg)
-
-[![Browser](https://img.shields.io/badge/Website-linuxndroid-yellowred?style=for-the-badge&logo=browser)](https://www.linuxndroid.in)
